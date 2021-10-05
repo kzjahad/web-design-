@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <title>Responsive website Landing Page - With Background Video Slider </title>
+</head>
+<body>
+
+<header>
+    <a href="#" class="brand">Travel</a>
+    <div class="menu-btn"></div>
+    <div class="navigation">
+        <div class="navigation-items">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Explore</a>
+            <a href="#">Gallery</a>
+            <a href="#">Contact</a>
+        </div>
+        <div class="slider-navigation">
+            <div class="nav-btn active"></div>
+            <div class="nav-btn"></div>
+            <div class="nav-btn"></div>
+            <div class="nav-btn"></div>
+            <div class="nav-btn"></div>
+        </div>
+    </div>
+</header>
+<section class="home">
+    <video class="video-slide active" src="video1.mp4" autoplay muted loop></video>
+    <video class="video-slide" src="video2.mp4" autoplay muted loop></video>
+    <video class="video-slide" src="video3.mov" autoplay muted loop></video>
+    <video class="video-slide" src="video4.mp4" autoplay muted loop></video>
+    <video class="video-slide" src="video5.mp4" autoplay muted loop></video>
+    <div class="content active">
+        <h1>Wonderful<br><span>Island</span></h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consectetur minima, nesciunt numquam perspiciatis sed similique soluta? A aliquid animi architecto, doloremque ex exercitationem facere id laudantium magnam reiciendis, temporibus.</p>
+        <a href="#">Read more</a>
+    </div>
+    <div class="content">
+        <h1>Adventures of<br><span>road & jungle</span></h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consectetur minima, nesciunt numquam perspiciatis sed similique soluta? A aliquid animi architecto, doloremque ex exercitationem facere id laudantium magnam reiciendis, temporibus.</p>
+        <a href="#">Read more</a>
+    </div>
+    <div class="content">
+        <h1>Sound<br><span>Of Highway</span></h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consectetur minima, nesciunt numquam perspiciatis sed similique soluta? A aliquid animi architecto, doloremque ex exercitationem facere id laudantium magnam reiciendis, temporibus.</p>
+        <a href="#">Read more</a>
+    </div>
+    <div class="content">
+        <h1>Boat Trip<br><span>Together</span></h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consectetur minima, nesciunt numquam perspiciatis sed similique soluta? A aliquid animi architecto, doloremque ex exercitationem facere id laudantium magnam reiciendis, temporibus.</p>
+        <a href="#">Read more</a>
+    </div>
+    <div class="content">
+        <h1>Hearing the word<br><span>of Nature</span></h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consectetur minima, nesciunt numquam perspiciatis sed similique soluta? A aliquid animi architecto, doloremque ex exercitationem facere id laudantium magnam reiciendis, temporibus.</p>
+        <a href="#">Read more</a>
+    </div>
+    <div class="media-icons">
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+    </div>
+
+</section>
+
+<!-- Optional JavaScript; choose one of the two! -->
+
+<!-- Option 1: Bootstrap Bundle with Popper -->
+<script type="text/javascript">
+    //Javacript for responsive navigation menu
+    const menuBtn = document.querySelector(".menu-btn");
+    const navigation = document.querySelector(".navigation");
+
+    menuBtn.addEventListener("click", () => {
+        menuBtn.classList.toggle("active");
+        navigation.classList.toggle("active");
+    });
+
+    //Javacript for video slider navigation
+    const btns = document.querySelectorAll(".nav-btn");
+    const slides = document.querySelectorAll(".video-slide");
+    const contents = document.querySelectorAll(".content");
+
+    var sliderNav = function(manual){
+        btns.forEach((btn) => {
+            btn.classList.remove("active");
+        });
+
+        slides.forEach((slide) => {
+            slide.classList.remove("active");
+        });
+
+        contents.forEach((content) => {
+            content.classList.remove("active");
+        });
+
+        btns[manual].classList.add("active");
+        slides[manual].classList.add("active");
+        contents[manual].classList.add("active");
+    }
+
+    btns.forEach((btn, i) => {
+        btn.addEventListener("click", () => {
+            sliderNav(i);
+        });
+    });
+</script>
+
+<!-- Option 2: Separate Popper and Bootstrap JS -->
+<!--
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+-->
+</body>
+</html>

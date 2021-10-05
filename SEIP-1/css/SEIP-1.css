@@ -1,0 +1,333 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url(all.min.css);
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    width: 1140px;
+    margin: auto;
+    overflow: hidden;
+}
+*{
+    margin: 0;
+}
+h1, h2. h3, h4, h5, h6{
+    margin: 0;
+}
+ul, figure{
+    margin: 0;
+    padding: 0;
+}
+a, p, img{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.text-center{
+    text-align: center;
+}
+.row {
+    overflow: hidden;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.col-2{
+    float: left;
+    width: 16.6666%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-3 {
+    float: left;
+    width: 25%;
+    padding-top: 65px;
+    padding-bottom: 60px;
+}
+#team .col-3{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.col-6{
+    float: left;
+    width: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-4{
+    float: left;
+    width: 33.3333%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-8{
+    float: left;
+    width: 66.6666%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-9{
+    float: left;
+    width: 75%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-10{
+    float: left;
+    width: 83.3333%;
+}
+
+header{
+    padding-bottom: 10px;
+}
+header .container figure{
+    float: left;
+    margin-top: 12px;
+    position: relative;
+    width: 160px;
+}
+header .container figure a{
+    margin-left: 10px;
+}
+header .container figure figcaption{
+    position: absolute;
+    top: 20px;
+    left: -5px;
+
+}
+header .container figure figcaption a{
+    color:#637483 ;
+    font-size: 24px;
+}
+header .container .menu{
+    float: right;
+    margin-top: 40px;
+}
+header .container .menu ul li{
+    display: inline-block;
+    margin-right: 55px;
+}
+header .container .menu ul li a{
+    color: #637483;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+header .container .menu ul li a:hover, header .container .menu ul .active{
+    color: #e4551d;
+}
+header .container .menu ul .active a{
+    color: #e4551d;
+}
+
+
+/*style for banner */
+#banner{
+    background-image: url("../img/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 125px;
+    padding-bottom: 235px;
+
+}
+#banner #banner-text{
+   width: 480px;
+    margin: auto;
+    color: #efff;
+}
+#banner #banner-text h1{
+    font-size: 30px;
+    width: 480px;
+    letter-spacing: 2px;
+}
+#banner #banner-text h1:first-child{
+    width: 300px;
+    margin: auto;
+    border-bottom: 1px solid #efff;
+    margin-bottom: 12px;
+}
+#banner #banner-text h1:nth-child(2){
+    width: 410px;
+    margin: auto;
+    border-bottom: 1px solid #efff;
+    margin-bottom: 30px;
+
+}
+#banner #banner-text p{
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+#banner #banner-text p:nth-child(3){
+    width: 280px;
+    margin: auto;
+}
+#banner #banner-text p:last-child{
+    width: 152px;
+    margin: auto;
+}
+/*style for lorem-ipsum*/
+#lorem-ipsum{
+    background-color: #fff9f9;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    color: #637483;
+}
+#lorem-ipsum p{
+    font-size: 24px;
+}
+#lorem-ipsum h1{
+    font-size: 34px;
+}
+/*style for services*/
+#services{
+    background-color: #f6f6f6;
+}
+
+#services h3{
+    color: #637483;
+    font-size: 22px;
+}
+#services p{
+    color: #959494;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+#services input{
+    background-color: #637483;
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-style: none;
+}
+#services .col-3{
+    border-left: 1px solid #d5d5d5;
+}
+
+#pictures{
+    background-color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+#button input{
+    background-color: #e4551d;
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    border-style: none;
+    height: 40px;
+    width: 155px;
+}
+/*style for team section*/
+#team{
+    padding-top: 60px;
+    padding-bottom: 35px;
+}
+#team p{
+    font-size: 14px;
+    margin-top: 10px;
+    color: #959494;
+}
+#team a{
+    color: #e4551d;
+}
+#team .col-3{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#team .col-9{
+    margin-top: 10px;
+    margin-left:-35px;
+}
+/*style for lorem-ipsum*/
+#lorem-ipsum-blue{
+    background-color: #637f83;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    color: #fff9f9;
+}
+#lorem-ipsum-blue p{
+    font-size: 24px;
+}
+#lorem-ipsum-blue h1{
+    font-size: 34px;
+}
+.hr-line-in{
+    margin-top: -30px;
+    color: #597275;
+}
+/*style for sign up*/
+#sign-up .sign-up{
+    width: 470px;
+    height: 30px;
+    margin-top: 80px;
+    background-color: #597275;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 15px;
+}
+#sign-up .btn{
+    width: 80px;
+    height: 30px;
+    margin-top: 80px;
+    background-color: #597275;
+    color: #fff9f9;
+    border-radius: 5px;
+    border-style: none;
+    margin-bottom: 30px;
+}
+
+footer{
+    background-color: #637f83;
+}
+footer #top-footer .container .row .col-4 p:first-child{
+    background-color: #e4551d;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 50px;
+}
+footer #top-footer .container .row .col-4 a{
+    color: #ffffff;
+    font-size: 32px;
+    position: absolute;
+    top: 8px;
+
+}
+footer #top-footer .container .row .col-4 .fb{
+    left: 18px;
+}
+footer #top-footer .container .row .col-4 .in{
+    left: 17px;
+}
+footer #top-footer .container .row .col-4 .g\+{
+    left: 12px;
+}
+
+footer #top-footer .container .row .col-4 p:last-child{
+    color: #b5c7c9;
+    font-size: 14px;
+    padding-left: 75px;
+    margin-top: -30px;
+    padding-bottom: 70px;
+    font-weight: bold;
+}
+footer #bottom-footer .container p{
+    color: #ffffff;
+    font-size: 14px;
+    margin-bottom: 40px;
+}

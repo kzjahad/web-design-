@@ -1,0 +1,44 @@
+body, h1, h2, h3, h4, h5, h6, figure, p{
+    margin: 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+/*Style For Header*/
+header{
+    background-color: #e2d9ff;
+}
+header .container .logo{
+    float: left;
+    position: relative;
+}
+header .container .logo figcaption{
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+}
+header .container .nav{
+    float: right;
+}
+header .container .nav li{
+    display: inline-block;
+}
+header .container .nav li a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+header .container .nav li{
+    margin-right: 40px;
+    margin-top:32px;
+}

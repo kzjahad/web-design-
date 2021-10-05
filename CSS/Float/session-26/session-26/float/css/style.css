@@ -1,0 +1,22 @@
+.container{
+    background-color: #fff000;
+    width: 400px;
+    border: 1px solid #0b2e13;
+}
+
+.container .redDiv{
+    background-color: #ff0000;
+    width: 200px;
+ /*   float: left;*/
+    float: right;
+}
+header{
+    background-color: #e7aeee;
+}
+span{
+    background-color: #00b0ff;
+    display: block;
+}
+footer{
+    background-color: #8dffdb;
+}

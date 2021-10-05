@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF=8">
+ <title>Booking Form</title>
+</head>
+<body>
+    <h1>Booking Form</h1>
+    <p>Booking with us is simple and easy. Just fill in the booking form below and we 
+        will email your itinerary and payment details. Please don't forget you have to
+        submit the payment for your reservstion in 24 hours after submitting the 
+        booking form.</p>
+<form action="#" method="post">
+ <div>
+ <lebel for="name">Name:</lebel>
+ <input
+       id="first"
+       type="text"
+       name="first_name"
+       value=""
+       required
+       maxlenght="25"
+       placeholder="First">
+<input
+       id="last"
+       type="text"
+       name="last_name"
+       value=""
+       required
+       maxlenght="25"
+       placeholder="Last">
+</div>
+ <p></p>
+ <div>
+ <lebel for="email">Email:</lebel>
+ <input
+       id="email"
+       type="email"
+       name="user_email"
+       value=""
+       required>
+ </div><p></p>
+ <div>
+ <lebel for="phone">Phone:</lebel>
+ <input
+       id="phone"
+       type="number"
+       name="phone_number"
+       value=""
+       required>
+ </div>
+ <p></p>
+ <div>
+ <lebel for="departure-date">Departure Date:</lebel>
+ <input
+       id="departure-date"
+       type="date"
+       name="departure_date"
+       value=""
+       required>
+ </div>
+ <p></p>
+ <div>
+ <lebel for="departure-time">Departure Time:</lebel>
+ <input
+       id="departure-time"
+       type="time"
+       name="departure_time"
+       value=""
+       required>
+ </div>
+ <p></p>
+ <div>
+ <lebel for="return-date">Return Date:</lebel>
+ <input
+       id="return-date"
+       type="date"
+       name="return-date"
+       value=""
+       required>
+ </div>
+ <p></p>
+ <div>
+ <lebel for="return-time">Return Time:</lebel>
+ <input
+       id="return-time"
+       type="time"
+       name="return-time"
+       value=""
+       required>
+ </div>
+ <p></p>
+ <div>
+ <lebel for="number">Number of guests/passengers:</lebel>
+ <input
+       id="number"
+       type="number"
+       name="number"
+       value=""
+       required>
+ </div>
+ <p>Type of room/ticket</p>
+ <div>
+ 
+ <input 
+    id="economy"
+    type="radio"
+    name="room/ticket"
+    value="economy">
+    <label for="economy">Economy:</label>
+    <input 
+    id="premium"
+    type="radio"
+    name="room/ticket"
+    value="premium">
+    <label for="premium">Premium:</label>
+    <input 
+    id="business"
+    type="radio"
+    name="room/ticket"
+    value="business">
+    <label for="business">Business:</label><input 
+    id="deluxe"
+    type="radio"
+    name="room/ticket"
+    value="deluxe">
+    <label for="deluxe">Deluxe:</label>
+</div>
+<p></p>
+<button type="submit">BOOK</button>
+</body>
+</html>

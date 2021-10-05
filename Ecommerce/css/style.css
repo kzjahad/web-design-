@@ -1,0 +1,81 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .2s linear;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+body{
+    overflow-x: hidden;
+}
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 2.5rem;
+    color: #fff;
+}
+.fa-bars{
+    font-size: 3rem;
+    z-index: 1000;
+    cursor: pointer;
+}
+.logo{
+    color:#fff;
+    font-size: 2rem;
+    text-decoration: none;
+}
+.logo:hover{
+    text-decoration: none;
+}
+.logo i{
+    padding: 0 .5rem;
+}
+.logo h1{
+    display: inline;
+}
+#header .left .fa-shopping-cart{
+    font-size:2rem;
+    cursor: pointer;
+}
+.left .search-container{
+    display: inline;
+    position: relative;
+}
+.search-container #search{
+    position: absolute;
+    top: -1.5rem;
+    right: .8rem;
+    height: 3.5rem;
+    width: 3.5rem;
+    font-size: 1.5rem;
+    padding: 0 1rem;
+    border: none;
+    outline: none;
+    border-radius: 5rem;
+}
+#search:hover:focus{
+    width: 25rem;
+}
+.fa-search{
+    position: absolute;
+    top: -.7rem;
+    left: -1.5rem;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 1;
+    color: #333;
+}
+#home{
+    min-height: 100vh;
+    width: 100vw;
+    background: #333;
+}

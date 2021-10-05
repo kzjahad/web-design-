@@ -1,0 +1,78 @@
+@import url(bootstrap.min.css);
+@import url(all.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: #333;
+}
+#page {
+    left: 0;
+    position: relative;
+}
+*{
+    margin: 0;
+}
+.container {
+    width: 1170px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+/*Style for header*/
+.header-container {
+    transition: all 0.5s;
+}
+.header-top {
+    padding: 0px 0px 0px 0px;
+    font-family: 'PT Sans', sans-serif;
+    letter-spacing: 0.2px;
+    font-size: 10px;
+    background: #fff;
+    border-bottom: 1px solid #efefef;
+    color: #858585;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: normal;
+}
+.block-language-wrapper {
+    display: inline-block !important;
+    margin: 7px 0 0 0;
+}
+.block-language {
+    background: none;
+    box-shadow: none;
+    border: none;
+    color: #858585;
+}
+.block-language img {
+    font-weight: normal;
+    padding: 0px 5px 0px 0px;
+    margin: auto;
+}
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-top: 4px solid\9;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+.block-language-wrapper .dropdown-menu {
+    border-radius: 0px;
+    min-width: 0px;
+    top: 28px;
+    padding: 0px;
+    border: 1px solid #efefef;
+    border-top: none;
+}
+.block-language-wrapper .dropdown-menu>li {
+    border-bottom: 1px #ddd solid;
+    padding: 4px 0px 4px 0px;
+}

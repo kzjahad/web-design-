@@ -1,0 +1,26 @@
+#example-1{
+    background-color: #0066ff;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+    padding: 9px 15px;
+}
+#example-1:hover{
+    background-color: #00cc33;
+}
+#example-2{
+    background-color: #0066ff;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+    padding: 9px 15px;
+    transition: background-color 6s ease-in-out 0s;
+
+}
+#example-2:hover{
+    background-color: #00cc33;
+}

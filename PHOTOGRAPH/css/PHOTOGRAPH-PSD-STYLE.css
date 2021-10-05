@@ -1,0 +1,404 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url(all.min.css);
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+*{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+    overflow: hidden;
+}
+.text-center{
+    text-align: center;
+}
+.row{
+    overflow: hidden;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.col-8{
+    float: left;
+    width: 66.6666%;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.col-2{
+    float: left;
+    width: 16.6666%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-10{
+    float: left;
+    width: 83.3333%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-9{
+    float: left;
+    width: 75%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-6{
+    float: left;
+    width: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-4{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-3{
+    float: left;
+    width: 25%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/*STYLE--FOR--HEADER*/
+header{
+    padding-bottom: 10px;
+}
+header .container figure{
+    float: left;
+    position: relative;
+    width: 160px;
+}
+header .container figure img{
+    margin-top: 5px;
+}
+header .container figure figcaption{
+    position: absolute;
+    top: 38px;
+    margin-left: 95px;
+
+}
+header .container figure figcaption a{
+    color:#000000 ;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+header .container .menu{
+    float: right;
+    margin-top: 38px;
+}
+header .container .menu ul li{
+    display: inline-block;
+    margin-right: 50px;
+}
+header .container .menu ul li a{
+    color: #000000;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+/*STYLE--FOR--BANNER*/
+#banner{
+    background-image: url("../img/photographbanner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 210px;
+}
+#banner #banner-text{
+    width: 850px;
+    margin: auto;
+    color: #ffffff;
+}
+/*#banner #banner-text h1{
+    font-size: 50px;
+    letter-spacing: 2px;
+}*/
+#banner #banner-text h1:first-child{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    width: 900px;
+    margin: auto;
+    margin-bottom: 12px;
+}
+#banner #banner-text h1:nth-child(2){
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    width: 305px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+/*STYLE--FOR--LOREM--IPSUM*/
+#lorem-ipsum{
+    background-color: #f9f9f9;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#lorem-ipsum p{
+    font-size: 14px;
+    color: #666666;
+    font-weight: lighter;
+}
+#lorem-ipsum h1{
+    font-size: 30px;
+    font-weight: 400;
+    color: #444444;
+    margin-bottom: 30px;
+}
+/*STYLE--FOR--SERVICES*/
+#services{
+    background-color: #f9f9f9;
+}
+#services .container h3{
+    font-size: 18px;
+    color: #444444;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+#services figure {
+    padding: 15px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 80px;
+}
+#services .container h4{
+    font-size: 17px;
+    color: #444444;
+    font-weight: bold;
+    margin-top: 25px;
+}
+#services .container p{
+    font-size: 14px;
+    color: #666666;
+    font-weight: lighter;
+}
+#instagram-shots{
+    background-color: #2c2c2c;
+    padding-bottom: 80px;
+}
+#instagram-shots .container .col-4{
+    margin-bottom: 10px;
+}
+#instagram-shots .container h3{
+    font-size: 18px;
+    color: #d5d5d5;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 80px;
+}
+#whiteimg{
+    background-image: url("../img/Photograph4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 135px;
+    padding-bottom: 135px;
+
+}
+#whiteimg #img-text{
+    width: 250px;
+    margin: auto;
+}
+#whiteimg #img-text h1{
+    color: #000000;
+    font-size: 32px;
+    font-weight: 600;
+}
+#instagram-shots .container .button {
+    margin: auto;
+    width: 185px;
+    margin-top: 30px;
+}
+#instagram-shots .container .button button {
+    background-color: transparent;
+    border: 2px solid #a6a6a6;
+    border-radius: 3px;
+    padding: 15px 20px;
+    color: #a6a6a6;
+    font-size: 14px;
+    cursor: pointer;
+}
+/*STYLE--FOR--JOURNAL*/
+#journal .container h3{
+    padding-top: 80px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #444444;
+}
+#journal .container .row .col-4 h4{
+    font-size: 16px;
+    color: #444444;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+#journal .container .row .col-4 p{
+    font-size: 12px;
+    color: #999999;
+    padding-bottom: 25px;
+}
+#journal .container .row .col-4 .journal-text p:first-child{
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    padding: 15px;
+}
+#journal .container .row .col-4 .journal-text p:last-child{
+    text-align: left;
+    padding: 15px;
+}
+#journal .container .row .col-4 .journal-text p a{
+    font-size: 11px;
+    color: #999999;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-bottom: 1px solid #28b8d8;
+
+}
+#journal .container .row .col-4 div:first-child{
+    border: 1px solid #dfdfdf;
+}
+/*STYLE--FOR--ABOUT*/
+
+#about .container .row .col-6 h3{
+    color: #444444;
+    margin-top: 85px;
+    font-size: 18px;
+}
+#about-me{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+#about-me .container .row .col-6 .row .col-8 p:first-child{
+    font-size: 14px;
+    color: #666666;
+    padding-right: 15px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+}
+#about-me .container .row .col-6 .row .col-8 p:last-child{
+    font-size: 14px;
+    color: #666666;
+    padding-right: 15px;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+#about-me .container .row .col-6 .row .col-2 img{
+    padding-left: 5px;
+    padding-bottom: 60px;
+}
+#about-me .container .row .col-6 .row .col-10 h4{
+    font-size: 17px;
+    color: #444444;
+    margin-left: -30px;
+    padding-bottom: 10px;
+}
+#about-me .container .row .col-6 .row .col-10 p{
+    font-size: 14px;
+    color: #666666;
+    margin-left: -30px;
+}
+/*STYLE--FOR--FOOTER*/
+footer #top-footer{
+    background-color: #373737;
+    padding-bottom: 70px;
+}
+footer #top-footer .container .row .col-3 h6{
+    font-size: 16px;
+    color: #f0f0f0;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding-top: 70px;
+}
+footer #top-footer .container .row .col-3 p{
+    font-size: 14px;
+    color: #cacaca;
+    padding-bottom: 5px;
+    padding-top: 30px;
+    word-spacing: 2px;
+    font-weight: lighter;
+}
+footer #top-footer .container .row .col-3 ul{
+    color: #cacaca;
+    font-size: 14px;
+    padding-top: 30px;
+}
+footer #top-footer .container .row .col-3 ul li{
+    padding: 5px;
+    margin-left: -15px;
+    margin-right: 40px;
+}
+footer #top-footer .container .row .col-3 time{
+    font-size: 12px;
+    color: #929292;
+}
+footer #bottom-footer{
+    background-color: #333333;
+}
+footer #bottom-footer .container .row .col-9 p{
+    color: #cacaca;
+    font-size: 14px;
+    font-weight: lighter;
+    padding-top: 40px;
+}
+footer #bottom-footer .container .row .col-3 p{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 30px;
+    border: 1px solid #ffffff;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    position: relative;
+    margin-bottom: 20px;
+}
+footer #bottom-footer .container .row .col-3 p a{
+    color: #ffffff;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+footer #bottom-footer .container .row .col-3 p:first-child a{
+    left: 12px;
+}
+footer #bottom-footer .container .row .col-3 p:last-child a{
+    left: 8px;
+}
+footer #bottom-footer .container .row #designer p{
+    font-size: 10px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 20px;
+    letter-spacing: 2px;
+}
+footer #bottom-footer .container .row .col-3 .active p{
+    color: black;
+}
+footer #bottom-footer .container .row .col-3 p:hover{
+    border-color: #000000;
+}
+footer #bottom-footer .container .row .col-3 p:hover a{
+    color: #000000;
+}

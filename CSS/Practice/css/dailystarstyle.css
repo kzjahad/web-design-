@@ -1,0 +1,50 @@
+
+h3, p{
+    margin: 0;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#daily-star{
+    background-color: #f4f5ff;
+    width: 382px;
+    margin: auto;
+    padding: 20px;
+}
+.container{
+
+    position: relative;
+    height: 200px;
+}
+.container section{
+    position: absolute;
+    width: 162px;
+    top: 0;
+}
+.container .Left-side{
+    left: 0;
+    padding-right: 30px;
+    border-right: 1px solid;
+}
+.container section h3 a{
+    color: black;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+.container .right-side{
+    right: 0;
+}
+.container section p{
+    margin-top: 10px;
+    font-size: 18px;
+
+}
+
+
+

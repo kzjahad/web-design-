@@ -1,0 +1,28 @@
+#content{
+    width: 400px;
+    margin: auto;
+}
+p{
+    margin: 0px;
+    padding: 5px
+}
+#div-before{
+    background-color: #F90;
+}
+#div-1{
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+}
+#div-1a{
+    background-color: #F33;
+}
+#div-1b{
+    background-color: #0c3 ;
+}
+#div-1c{
+    background-color: #0066ff;
+}
+#div-after{
+    background-color: #69F;
+}

@@ -1,0 +1,11 @@
+.container {
+    width: 380px;
+}
+.container .title a{
+    font-size: 30px;
+
+}
+.container .image{
+    width: 250px;
+    float: left;
+}

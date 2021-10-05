@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbf72702-99db-4737-8ee8-bfb8347d32da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Animation/Flying and Landing Airplane/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Animation/Flying and Landing Airplane/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SUCCESS/success.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/css/style.css" />
+        <option value="$PROJECT_DIR$/SEIP-1 with Bootsrap/css/style.css" />
+        <option value="$PROJECT_DIR$/SEIP-1 with Bootsrap/index.html" />
+        <option value="$PROJECT_DIR$/LoopLAB/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/LoopLAB/css/style.css" />
+        <option value="$PROJECT_DIR$/LoopLAB/LoopLAB.html" />
+        <option value="$PROJECT_DIR$/Owl Carousel/css/style.css" />
+        <option value="$PROJECT_DIR$/Owl Carousel/index.html" />
+        <option value="$PROJECT_DIR$/TravelWebsite/index.html" />
+        <option value="$PROJECT_DIR$/TravelWebsite/css/style.css" />
+        <option value="$PROJECT_DIR$/VERITO/products-gallery-carousel-with-zoom-master/css/main.css" />
+        <option value="$PROJECT_DIR$/VERITO/product-carousel.html" />
+        <option value="$PROJECT_DIR$/VERITO/webfonts/Products Detail.html" />
+        <option value="$PROJECT_DIR$/VERITO/Feature-rich-Product-Gallery-With-Image-Zoom-xZoom/Feature-rich-Product-Gallery-With-Image-Zoom-xZoom/example/index.html" />
+        <option value="$PROJECT_DIR$/VERITO/css/xzoom.css" />
+        <option value="$PROJECT_DIR$/Ecommerce/css/style.scss" />
+        <option value="$PROJECT_DIR$/Ecommerce/index.html" />
+        <option value="$PROJECT_DIR$/Ecommerce/css/style.css" />
+        <option value="$PROJECT_DIR$/Pizza/js/main.js" />
+        <option value="$PROJECT_DIR$/Pizza/index.html" />
+        <option value="$PROJECT_DIR$/Pizza/css/style.css" />
+        <option value="$PROJECT_DIR$/Pizza/css/responsive-style.css" />
+        <option value="$PROJECT_DIR$/Grid &amp; List/style.css" />
+        <option value="$PROJECT_DIR$/Grid &amp; List/index.html" />
+        <option value="$PROJECT_DIR$/VERITO/js/gridlist.js" />
+        <option value="$PROJECT_DIR$/Ecommerce-VERITO/index.html" />
+        <option value="$PROJECT_DIR$/Ecommerce-VERITO/css/style.css" />
+        <option value="$PROJECT_DIR$/starter templat portfolio-4/index.html" />
+        <option value="$PROJECT_DIR$/Photograph with Bootsrap/css/style.css" />
+        <option value="$PROJECT_DIR$/Photograph with Bootsrap/index.html" />
+        <option value="$PROJECT_DIR$/Glassmorphism Portfolio Website - Starter Files/index.html" />
+        <option value="$PROJECT_DIR$/Glassmorphism Portfolio Website - Starter Files/css/style.css" />
+        <option value="$PROJECT_DIR$/VERITO/css/foundation.css" />
+        <option value="$PROJECT_DIR$/VERITO/sign-up.html" />
+        <option value="$PROJECT_DIR$/VERITO/Produts Detail.html" />
+        <option value="$PROJECT_DIR$/VERITO/product.html" />
+        <option value="$PROJECT_DIR$/VERITO/js/index.js" />
+        <option value="$PROJECT_DIR$/VERITO/css/style.css" />
+        <option value="$PROJECT_DIR$/VERITO/index.html" />
+        <option value="$PROJECT_DIR$/Javascript/index.html" />
+        <option value="$PROJECT_DIR$/Animation/Animated pulsing button/index.html" />
+        <option value="$PROJECT_DIR$/Animation/Animated pulsing button/css/style.css" />
+        <option value="$PROJECT_DIR$/Animation/Switch On Off Light Bulb With Sound/index.html" />
+        <option value="$PROJECT_DIR$/Animation/Switch On Off Light Bulb With Sound/css/style.css" />
+        <option value="$PROJECT_DIR$/Animation/Neumorphism Effect with Soft Gradient &amp; Animated Rocket/css/style.css" />
+        <option value="$PROJECT_DIR$/Animation/Neumorphism Effect with Soft Gradient &amp; Animated Rocket/index.html" />
+        <option value="$PROJECT_DIR$/Animation/Flying and Landing Airplane/index.html" />
+        <option value="$PROJECT_DIR$/Animation/Flying and Landing Airplane/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/VERITO/Feature-rich-Product-Gallery-With-Image-Zoom-xZoom/Feature-rich-Product-Gallery-With-Image-Zoom-xZoom/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="915" />
+    <option name="width" value="1010" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web Design ++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Design ++" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Design ++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Design ++" type="462c0819:PsiDirectoryNode" />
+              <item name="Animation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web Design ++" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web Design ++" type="462c0819:PsiDirectoryNode" />
+              <item name="Animation" type="462c0819:PsiDirectoryNode" />
+              <item name="Flying and Landing Airplane" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web Design ++\CSS\Practice\css" />
+      <recent name="D:\Web Design ++\CSS\CSS Positioning\Static Position" />
+      <recent name="D:\Web Design ++\CSS\Selectors\Pseudo-Class\E-root" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web Design ++\Photograph with Bootsrap\css" />
+      <recent name="D:\Web Design ++\Photograph with Bootsrap" />
+      <recent name="D:\Web Design ++\Photograph with Bootsrap\js" />
+      <recent name="D:\Web Design ++\VERITO\js" />
+      <recent name="D:\Web Design ++\VERITO\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbf72702-99db-4737-8ee8-bfb8347d32da" name="Default" comment="" />
+      <created>1618821645183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618821645183</updated>
+      <workItem from="1618821646364" duration="443000" />
+      <workItem from="1618822358481" duration="68000" />
+      <workItem from="1618825078457" duration="1630000" />
+      <workItem from="1618989002013" duration="3208000" />
+      <workItem from="1618992243802" duration="3000" />
+      <workItem from="1619198518177" duration="3913000" />
+      <workItem from="1619246104229" duration="861000" />
+      <workItem from="1619256356438" duration="337000" />
+      <workItem from="1619426313324" duration="3673000" />
+      <workItem from="1621699491873" duration="1764000" />
+      <workItem from="1621781530794" duration="2465000" />
+      <workItem from="1622298070588" duration="342000" />
+      <workItem from="1622439215074" duration="3828000" />
+      <workItem from="1622475752666" duration="4045000" />
+      <workItem from="1622547390498" duration="9894000" />
+      <workItem from="1622558893898" duration="605000" />
+      <workItem from="1622568909931" duration="3337000" />
+      <workItem from="1622610568465" duration="5228000" />
+      <workItem from="1622648340884" duration="696000" />
+      <workItem from="1622740189422" duration="495000" />
+      <workItem from="1622740705966" duration="402000" />
+      <workItem from="1623070335515" duration="8333000" />
+      <workItem from="1623509703898" duration="1311000" />
+      <workItem from="1623668715660" duration="6069000" />
+      <workItem from="1623685577298" duration="2261000" />
+      <workItem from="1623916451469" duration="563000" />
+      <workItem from="1624110735611" duration="4162000" />
+      <workItem from="1624117898493" duration="850000" />
+      <workItem from="1624179475217" duration="644000" />
+      <workItem from="1624458729934" duration="2617000" />
+      <workItem from="1624722712864" duration="3515000" />
+      <workItem from="1624772276920" duration="2000" />
+      <workItem from="1624886738362" duration="3901000" />
+      <workItem from="1625065288582" duration="3855000" />
+      <workItem from="1625475099707" duration="3125000" />
+      <workItem from="1625479053312" duration="247000" />
+      <workItem from="1625486059030" duration="7695000" />
+      <workItem from="1625667831243" duration="2941000" />
+      <workItem from="1625738251131" duration="403000" />
+      <workItem from="1625932524297" duration="1271000" />
+      <workItem from="1626240921901" duration="16275000" />
+      <workItem from="1626266806637" duration="2598000" />
+      <workItem from="1626275929718" duration="6449000" />
+      <workItem from="1626363839967" duration="241000" />
+      <workItem from="1626370003171" duration="3338000" />
+      <workItem from="1626411981381" duration="2410000" />
+      <workItem from="1626536840489" duration="2040000" />
+      <workItem from="1626696479796" duration="571000" />
+      <workItem from="1626697677585" duration="1280000" />
+      <workItem from="1626698987840" duration="2428000" />
+      <workItem from="1626963828155" duration="363000" />
+      <workItem from="1627102011567" duration="4000" />
+      <workItem from="1627107068250" duration="6363000" />
+      <workItem from="1627190329774" duration="4353000" />
+      <workItem from="1627230196797" duration="4325000" />
+      <workItem from="1627289635990" duration="4833000" />
+      <workItem from="1627310192890" duration="3588000" />
+      <workItem from="1627371242788" duration="12695000" />
+      <workItem from="1627389607509" duration="7841000" />
+      <workItem from="1627476103997" duration="5756000" />
+      <workItem from="1627482366631" duration="620000" />
+      <workItem from="1627485562402" duration="3897000" />
+      <workItem from="1627814608108" duration="607000" />
+      <workItem from="1627971486862" duration="595000" />
+      <workItem from="1627979977499" duration="256000" />
+      <workItem from="1627980258979" duration="3460000" />
+      <workItem from="1627998626968" duration="3084000" />
+      <workItem from="1628083311589" duration="7432000" />
+      <workItem from="1628524396889" duration="1028000" />
+      <workItem from="1628588966819" duration="1846000" />
+      <workItem from="1628655666053" duration="361000" />
+      <workItem from="1628683025725" duration="4215000" />
+      <workItem from="1628761743684" duration="3800000" />
+      <workItem from="1628781448334" duration="2242000" />
+      <workItem from="1628853109578" duration="4009000" />
+      <workItem from="1628936240133" duration="2484000" />
+      <workItem from="1628947052922" duration="7666000" />
+      <workItem from="1629025333274" duration="4859000" />
+      <workItem from="1629040742231" duration="5531000" />
+      <workItem from="1629102003302" duration="4517000" />
+      <workItem from="1629285914119" duration="2935000" />
+      <workItem from="1629289766013" duration="6761000" />
+      <workItem from="1629301843971" duration="977000" />
+      <workItem from="1629368998083" duration="999000" />
+      <workItem from="1629375536900" duration="8181000" />
+      <workItem from="1629389566109" duration="3546000" />
+      <workItem from="1629439077003" duration="4469000" />
+      <workItem from="1629448315241" duration="2771000" />
+      <workItem from="1629477061098" duration="7146000" />
+      <workItem from="1629528885344" duration="4902000" />
+      <workItem from="1629537448444" duration="5685000" />
+      <workItem from="1629558792117" duration="1405000" />
+      <workItem from="1629631586555" duration="5307000" />
+      <workItem from="1629695970135" duration="7548000" />
+      <workItem from="1629707223404" duration="16805000" />
+      <workItem from="1629729221474" duration="781000" />
+      <workItem from="1629731485979" duration="5846000" />
+      <workItem from="1629870665152" duration="6725000" />
+      <workItem from="1629879036631" duration="4392000" />
+      <workItem from="1629907455817" duration="457000" />
+      <workItem from="1629909870375" duration="731000" />
+      <workItem from="1629911470752" duration="3004000" />
+      <workItem from="1629987752186" duration="11990000" />
+      <workItem from="1630043169926" duration="3236000" />
+      <workItem from="1630079453884" duration="6675000" />
+      <workItem from="1630140783574" duration="9045000" />
+      <workItem from="1630165762667" duration="733000" />
+      <workItem from="1630302044481" duration="7236000" />
+      <workItem from="1630310135002" duration="7449000" />
+      <workItem from="1630471877076" duration="9766000" />
+      <workItem from="1630486362255" duration="17627000" />
+      <workItem from="1630508848672" duration="5682000" />
+      <workItem from="1630565962935" duration="1158000" />
+      <workItem from="1630579810470" duration="3950000" />
+      <workItem from="1630686456446" duration="9085000" />
+      <workItem from="1630768539018" duration="3165000" />
+      <workItem from="1630829886220" duration="400000" />
+      <workItem from="1630842757901" duration="631000" />
+      <workItem from="1630843798765" duration="470000" />
+      <workItem from="1630862980169" duration="304000" />
+      <workItem from="1630927948386" duration="3392000" />
+      <workItem from="1630943538755" duration="4576000" />
+      <workItem from="1631079089732" duration="817000" />
+      <workItem from="1631102635300" duration="5335000" />
+      <workItem from="1631115763766" duration="3147000" />
+      <workItem from="1631121067198" duration="3126000" />
+      <workItem from="1631291302198" duration="7332000" />
+      <workItem from="1631329275912" duration="709000" />
+      <workItem from="1631352692838" duration="4603000" />
+      <workItem from="1631376641863" duration="1371000" />
+      <workItem from="1631416349092" duration="1188000" />
+      <workItem from="1631507555412" duration="602000" />
+      <workItem from="1631592085203" duration="11000" />
+      <workItem from="1631678760169" duration="211000" />
+      <workItem from="1631815261226" duration="4000" />
+      <workItem from="1631878993571" duration="4000" />
+      <workItem from="1632035120431" duration="266000" />
+      <workItem from="1632116139963" duration="240000" />
+      <workItem from="1632141700825" duration="1009000" />
+      <workItem from="1632930638138" duration="2366000" />
+      <workItem from="1632990642049" duration="402000" />
+      <workItem from="1633151332967" duration="540000" />
+      <workItem from="1633155275811" duration="5177000" />
+      <workItem from="1633166170225" duration="3631000" />
+      <workItem from="1633170732491" duration="395000" />
+      <workItem from="1633275014584" duration="3501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="505192000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="732" y="0" width="808" height="840" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8480114" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.15198864" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286517" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286517" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18456376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Photograph with Bootsrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Photograph with Bootsrap/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHOTOGRAPH/PHOTOGRAPH-PSD.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SEIP-1 with Bootsrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHOTOGRAPH/css/PHOTOGRAPH-PSD-STYLE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ecommerce/css/style.scss" />
+    <entry file="file://$PROJECT_DIR$/TravelWebsite/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ecommerce/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/css/responsive-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/OwlCarousel2-2.3.4 (1)/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/OwlCarousel2-2.3.4 (1)/OwlCarousel2-2.3.4/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3854">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/bootstrap-list-grid-view-switcher/bootstrap-list-grid-view-switcher/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/List-Grid/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grid &amp; List/index">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/bootstrap-list-grid-view-switcher/bootstrap-list-grid-view-switcher/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="222" column="37" lean-forward="true" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ecommerce/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grid &amp; List/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="140" selection-start-line="5" selection-start-column="140" selection-end-line="5" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grid &amp; List/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/list-grid-views-master/list-grid-views-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="129" selection-start-line="10" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/list-grid-views-master/list-grid-views-master/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/js/gridlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/list-grid-views-master/list-grid-views-master/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ecommerce-VERITO/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="83" selection-start-line="34" selection-start-column="83" selection-end-line="34" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ecommerce-VERITO/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/starter templat portfolio-4/index.html" />
+    <entry file="file://$PROJECT_DIR$/starter templat portfolio-4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TravelWebsite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Photograph with Bootsrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="129" column="85" selection-start-line="129" selection-start-column="85" selection-end-line="129" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Photograph with Bootsrap/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="1845" column="22" lean-forward="true" selection-start-line="1845" selection-start-column="22" selection-end-line="1845" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Glassmorphism Portfolio Website - Starter Files/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Glassmorphism Portfolio Website - Starter Files/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/sign-up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="305" selection-start-line="305" selection-end-line="308" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/Produts Detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="295" column="35" selection-start-line="295" selection-start-column="35" selection-end-line="295" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="968" column="35" selection-start-line="968" selection-start-column="35" selection-end-line="968" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoopLAB/LoopLAB.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20196">
+          <caret line="1188" column="29" selection-start-line="1188" selection-start-column="29" selection-end-line="1188" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERITO/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="120" column="55" selection-start-line="120" selection-start-column="55" selection-end-line="120" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Animated pulsing button/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Animated pulsing button/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Switch On Off Light Bulb With Sound/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Switch On Off Light Bulb With Sound/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Neumorphism Effect with Soft Gradient &amp; Animated Rocket/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#i#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Neumorphism Effect with Soft Gradient &amp; Animated Rocket/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Flying and Landing Airplane/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animation/Flying and Landing Airplane/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+@import url(bootstrap.min.css);
+
+
+
+
+
+
+/*Style for header*/
+header .bg-light{
+    background-color: #ffffff !important;
+}
+
+header .container figure{
+    float: left;
+    margin-top: 12px;
+    position: relative;
+    width: 160px;
+}
+header .container figure a{
+    margin-left: 0px;
+}
+header .container figure figcaption{
+    position: absolute;
+    top: 20px;
+    left: -5px;
+
+}
+header .container figure figcaption a{
+    color:#637f83 ;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+header .navbar-light .navbar-nav .nav-link{
+    color: #637f83;
+    text-transform: uppercase;
+
+}
+header .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #e4551d;
+    text-transform: uppercase;
+}
